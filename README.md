@@ -1,5 +1,5 @@
 
-# Quantum Code Challenge: Swapping Values of  N Qubits 👨🏻‍💻
+# Quantum Code Challenge: Swapping the Values of Qubits 👨🏻‍💻
 ---
 
 
